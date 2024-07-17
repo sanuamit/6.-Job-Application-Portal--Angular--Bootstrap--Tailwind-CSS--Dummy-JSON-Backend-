@@ -1,0 +1,154 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Frontend Developer",
+      "description": "Job description for Frontend Developer"
+    },
+    {
+      "id": 2,
+      "title": "Backend Developer",
+      "description": "Job description for Backend Developer"
+    },
+    {
+      "id": 3,
+      "title": "Full Stack Developer",
+      "description": "Job description for Full Stack Developer"
+    },
+    {
+      "id": 4,
+      "title": "Data Scientist",
+      "description": "Job description for Data Scientist"
+    },
+    {
+      "id": 5,
+      "title": "DevOps Engineer",
+      "description": "Job description for DevOps Engineer"
+    },
+    {
+      "id": 6,
+      "title": "QA Engineer",
+      "description": "Job description for QA Engineer"
+    },
+    {
+      "id": 7,
+      "title": "Product Manager",
+      "description": "Job description for Product Manager"
+    },
+    {
+      "id": 8,
+      "title": "UX/UI Designer",
+      "description": "Job description for UX/UI Designer"
+    },
+    {
+      "id": 9,
+      "title": "Mobile Developer",
+      "description": "Job description for Mobile Developer"
+    },
+    {
+      "id": 10,
+      "title": "Systems Administrator",
+      "description": "Job description for Systems Administrator"
+    },
+    {
+      "id": 11,
+      "title": "Database Administrator",
+      "description": "Job description for Database Administrator"
+    },
+    {
+      "id": 12,
+      "title": "Network Engineer",
+      "description": "Job description for Network Engineer"
+    },
+    {
+      "id": 13,
+      "title": "Cloud Architect",
+      "description": "Job description for Cloud Architect"
+    },
+    {
+      "id": 14,
+      "title": "Security Analyst",
+      "description": "Job description for Security Analyst"
+    },
+    {
+      "id": 15,
+      "title": "Machine Learning Engineer",
+      "description": "Job description for Machine Learning Engineer"
+    },
+    {
+      "id": 16,
+      "title": "Business Analyst",
+      "description": "Job description for Business Analyst"
+    },
+    {
+      "id": 17,
+      "title": "IT Support Specialist",
+      "description": "Job description for IT Support Specialist"
+    },
+    {
+      "id": 18,
+      "title": "Technical Writer",
+      "description": "Job description for Technical Writer"
+    },
+    {
+      "id": 19,
+      "title": "Scrum Master",
+      "description": "Job description for Scrum Master"
+    },
+    {
+      "id": 20,
+      "title": "Salesforce Developer",
+      "description": "Job description for Salesforce Developer"
+    },
+    {
+      "id": 21,
+      "title": "SAP Consultant",
+      "description": "Job description for SAP Consultant"
+    },
+    {
+      "id": 22,
+      "title": "Blockchain Developer",
+      "description": "Job description for Blockchain Developer"
+    },
+    {
+      "id": 23,
+      "title": "Game Developer",
+      "description": "Job description for Game Developer"
+    },
+    {
+      "id": 24,
+      "title": "AR/VR Developer",
+      "description": "Job description for AR/VR Developer"
+    },
+    {
+      "id": 25,
+      "title": "Embedded Systems Engineer",
+      "description": "Job description for Embedded Systems Engineer"
+    },
+    {
+      "id": 26,
+      "title": "Robotics Engineer",
+      "description": "Job description for Robotics Engineer"
+    },
+    {
+      "id": 27,
+      "title": "Big Data Engineer",
+      "description": "Job description for Big Data Engineer"
+    },
+    {
+      "id": 28,
+      "title": "AI Research Scientist",
+      "description": "Job description for AI Research Scientist"
+    },
+    {
+      "id": 29,
+      "title": "Bioinformatics Specialist",
+      "description": "Job description for Bioinformatics Specialist"
+    },
+    {
+      "id": 30,
+      "title": "Digital Marketing Specialist",
+      "description": "Job description for Digital Marketing Specialist"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+<div class="container mt-4 mb-4">
+  <h2 class="text-center mb-4">JOB LISTINGS</h2>
+  <div class="list-group">
+    <a *ngFor="let job of jobs" [routerLink]="['/job', job.id]" class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
+      <span class="job-title">{{ job.title }}</span>
+      <span class="badge badge-primary badge-pill">View Details</span>
+    </a>
+  </div>
+</div>
